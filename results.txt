@@ -1,0 +1,111 @@
+N:
+2000000000
+iterationCount:
+20
+iteration: 0
+     int+: 02.4815193
+     int*: 02.4524780
+     float+: 03.3782169
+     float*: 03.3850894
+iteration: 1
+     int+: 02.5508798
+     int*: 02.5043595
+     float+: 03.3664605
+     float*: 03.4084820
+iteration: 2
+     int+: 02.5518925
+     int*: 02.6065654
+     float+: 03.4434950
+     float*: 03.4163803
+iteration: 3
+     int+: 02.4881120
+     int*: 02.4827047
+     float+: 03.3944473
+     float*: 03.3895444
+iteration: 4
+     int+: 02.4838529
+     int*: 02.4783341
+     float+: 03.3905504
+     float*: 03.3974942
+iteration: 5
+     int+: 02.4733124
+     int*: 02.5804467
+     float+: 03.4351196
+     float*: 03.3868827
+iteration: 6
+     int+: 02.4805402
+     int*: 02.4797704
+     float+: 03.4544139
+     float*: 03.4649089
+iteration: 7
+     int+: 02.4893184
+     int*: 02.4716609
+     float+: 03.3868335
+     float*: 03.3891078
+iteration: 8
+     int+: 02.4805835
+     int*: 02.4791756
+     float+: 03.3925300
+     float*: 03.3904901
+iteration: 9
+     int+: 02.4816134
+     int*: 02.4679479
+     float+: 03.3966364
+     float*: 03.3848774
+iteration: 10
+     int+: 02.4715540
+     int*: 02.4780360
+     float+: 03.4006617
+     float*: 03.4402915
+iteration: 11
+     int+: 02.5282088
+     int*: 02.5024610
+     float+: 03.3867640
+     float*: 03.3756502
+iteration: 12
+     int+: 02.5184832
+     int*: 02.5257980
+     float+: 03.4305676
+     float*: 03.3808351
+iteration: 13
+     int+: 02.4842951
+     int*: 02.4686417
+     float+: 03.3839904
+     float*: 03.3825259
+iteration: 14
+     int+: 02.4717421
+     int*: 02.4710861
+     float+: 03.3864852
+     float*: 03.3812996
+iteration: 15
+     int+: 02.4913602
+     int*: 02.4747035
+     float+: 03.4100488
+     float*: 03.3897482
+iteration: 16
+     int+: 02.4679334
+     int*: 02.4748815
+     float+: 03.4767044
+     float*: 03.4243765
+iteration: 17
+     int+: 02.4673848
+     int*: 02.4691638
+     float+: 03.3872709
+     float*: 03.4774342
+iteration: 18
+     int+: 02.5128007
+     int*: 02.4688206
+     float+: 03.4115619
+     float*: 03.4370089
+iteration: 19
+     int+: 02.4891888
+     int*: 02.4886742
+     float+: 03.4084076
+     float*: 03.4405374
+
+results
+ in 20 iteration
+     intTop: 2,493228775
+     intCarp: 2,49128548
+     floatTop: 3,4060583
+     floatCarp: 3,407148235
