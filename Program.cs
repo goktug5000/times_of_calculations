@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading;
 
-namespace bisiOlcak
+namespace mucuq
 {
     class Program
     {
